@@ -1,4 +1,4 @@
--- 2. Write an SQL query based on table_1 and table_1
+-- 2. Write an SQL query based on table_1 and table_2
 SELECT TABLE_1.DATE, TABLE_1.ITEM_NAME, TABLE_1.PRICE, TABLE_2.ITEM_TYPE
 FROM TABLE_1
 FULL JOIN TABLE_2
