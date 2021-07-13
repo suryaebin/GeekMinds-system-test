@@ -1,0 +1,31 @@
+.nav-wrapper {
+  padding: 12px 24px;
+}
+.menu-title-span {
+  font-size: 12px;
+}
+.menu-icon {
+  min-height: 48px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  width: 100%;
+  text-decoration: none;
+  color: black;
+  margin: 5px 0;
+}
+.guide-icon {
+  margin-right: 20px;
+}
+.dash {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.dash-menu {
+  min-height: 30px;
+  width: 100%;
+  margin-left: 90px;
+  cursor: pointer;
+}
